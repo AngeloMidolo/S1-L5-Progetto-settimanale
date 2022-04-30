@@ -117,6 +117,7 @@ table {
 
 thead {
     background-color: #3737ff;
+    color: white;
     height: 50px;
 }
 
@@ -146,6 +147,7 @@ iframe {
     align-items: center;
     /* padding: 20px; */
     margin: 25px;
+    border-radius: 5px;
 }
 
 #form h2 {
@@ -187,6 +189,7 @@ aside h2 {
 
 aside div {
     background-color: lightgray;
+    border-radius: 5px;
     margin: 25px;
     padding: 25px;
 }
